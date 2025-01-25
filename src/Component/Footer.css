@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+   
+}
+
+.main-footer{
+    display: flex;
+    margin-bottom: 12px;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.row{
+    margin-left: -15px;
+    margin-right: -1px;
+    display: flex;
+    background-color: #20263e;
+    padding: 48px;
+    justify-content: center;
+    padding: 1;
+    align-items: center;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    
+}
+li{
+    margin: 10px;
+}
+
+.copy-1{
+    color: white;
+    margin-right: 10px;
+}
+.face{
+    color: #1877F2;
+}
+.xmas{
+    color: #000;
+}
+.Link{
+    color: #0A66C2;
+}
